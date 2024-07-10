@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>House for Sale in Hillsworth Close</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        .house-info {
+            margin-bottom: 20px;
+        }
+        .house-info h2 {
+            color: #555;
+        }
+        .house-info p {
+            line-height: 1.6;
+        }
+        .images {
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .images img {
+            max-width: 100%;
+            margin: 10px;
+            flex: 1;
+        }
+        .contact {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        .contact h2 {
+            margin-top: 0;
+        }
+        .contact a {
+            color: #fff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>House for Sale in Hillsworth Close</h1>
+        <div class="house-info">
+            <h2>Location:</h2>
+            <p>Hillsworth Close, Hackney, London, E5</p>
+            
+            <h2>Price:</h2>
+            <p>£557,000</p>
+            
+            <h2>Description:</h2>
+            <p>This beautiful house is located in a prime Jewish neighborhood in Hackney, offering a vibrant community and excellent amenities. The property features [INSERT DETAILS ON SIZE, NUMBER OF ROOMS, AND OTHER UNIQUE FEATURES].</p>
+        </div>
+        
+        <div class="images">
+            <!-- Images of the house will be inserted here -->
+            <img src="path_to_your_image1.jpg" alt="House Image 1">
+            <img src="path_to_your_image2.jpg" alt="House Image 2">
+            <!-- Add more images as needed -->
+        </div>
+
+        <div class="contact">
+            <h2>Contact Information</h2>
+            <p>For more information or to schedule a viewing, please contact:</p>
+            <p><a href="mailto:example@example.com">example@example.com</a></p>
+            <p>Phone: 01234 567890</p>
+        </div>
+    </div>
+</body>
+</html>
